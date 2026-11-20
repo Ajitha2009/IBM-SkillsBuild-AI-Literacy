@@ -17,6 +17,9 @@ Credential Details
 - Platform: IBM SkillsBuild
 - Program: AI Literacy
 - Achievement: Badge and Certificate
+- ## Credential Verification
+- [View My IBM AI Literacy Badge]
+- https://www.credly.com/badges/1f450dfc-9427-40b0-b1a2-0a904a503088/public_url
 
 Learning Outcome
 
